@@ -1,0 +1,6 @@
+#container {
+    background: purple;
+    width: 360px;
+    margin: 0 auto;
+    border: 12px solid rgb(165, 13, 102);
+}
