@@ -4,3 +4,8 @@
     margin: 0 auto;
     border: 12px solid rgb(165, 13, 102);
 }
+
+.completed {
+    color: gray;
+    text-decoration: line-through;
+}
